@@ -1,0 +1,13 @@
+.card {
+  display: inline-block;
+  width: 40%;
+  box-sizing: border-box;
+  padding: 1em;
+  margin: 2em;
+  border: 1px solid #ccc;
+  border-radius: 2em;
+  height: auto;
+}
+img {
+  width: 80%;
+}
